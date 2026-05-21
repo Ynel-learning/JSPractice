@@ -1,1 +1,2 @@
-This is just a practice for improving problem solving skills and also getting familiar with Javascript, Git, and Github
+This is just a practice for improving problem solving skills and also getting familiar with Javascript, Git, and Github.
+#learning
