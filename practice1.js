@@ -7,4 +7,4 @@ function sumPositive(numArr) {
     return sum;
 }
 
-console.log(sumPositive([1, -2, 3, 4, -5]));
+sumPositive([-1, -2, -3, 4, 5]);
