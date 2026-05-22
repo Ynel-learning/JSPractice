@@ -3,7 +3,8 @@ function sumPositive(numArr) {
     for (let i = 0; i < numArr.length; i++) {
         const number = numArr[i];
         if (number > 0) sum += number;
-    }return sum;
+    }
+    return sum;
 }
 
 sumPositive([-1, -2, -3, 4, 5]);
