@@ -4,7 +4,8 @@ function findLargest(arrNum) {
         const number = arrNum[i];
 
         if (number > largest) largest = number;
-    }return largest;
+    }
+    return largest;
 }
 
 findLargest([3, 7, 2, 9, 5]);
