@@ -11,4 +11,4 @@ function findUser(users, target) {
     return null;
 }
 
-console.log(findUser(users, 'Alice'));
+findUser(users, 'Alice');
